@@ -29,7 +29,7 @@ Objetivos profesionales
 
 ## 💼 Experiencia laboral
 
-### Emisora de Radio "Radio Mayabeque", Güines-Mayabeque
+### Emisora de Radio "Radio Mayabeque", Güines - Mayabeque
 - Jefe de Grupo Técnico, Actualidad
 - Cumplir y hacer cumplir la seguridad Informática de la Emisora
 - Velar por la correcta implementación de sistemas de gestión.
@@ -42,17 +42,65 @@ Objetivos profesionales
 - Implementación de un cortafuegos utilizando una imagen de Kerio Control Version 9.3.6 para el control del tráfico de la red.
 - Implementación de un servidor de antivirus para garantizar la actualización regular de las estaciones de trabajo.
 
-### Empresa, Ciudad
-- Puesto, años de experiencia
-- Descripción detallada de responsabilidades y logros
+### Facultad de Ciencias Médicas, Güines - Mayabeque
+- Administrador de redes, Agosto 2023 - Enero 2024
+- Administrar los recursos de redes en el Centro de Información de Salud, así como los usuarios que utilizan dichos recursos.
+- Supervisar los registros de navegación y trazas del Centro de Información de Salud.
+- Mantener los servidores virtuales y contenedores en un servidor PROXMOX.
+- Atender y adminsitrar el sitio de noticias del Centro de Información de Salud, implementado en Joomla!
+
+### ECOS SURL, Bejucal - Mayabeque
+- Desarrollador de software, Marzo 2023 - Noviembre 2023
+- Elaborar código informático y servicios necesarios para implementar funcionalidades para la aplicacion GESEL.
+- Integrar el código con el resto de desarrolladores.
+- Realizar pruebas unitarias y otras pruebas al código.
+- Corregir oportunamente los defectos y brindar orientación técnica.
+- Elaborar archivos compilados necesarios para el despliegue del software.
+- Realizar labores técnicas de transferencia tecnológica y entrenamiento al personal técnico del cliente.
+
+### Sucursal CIMEX Mayabeque, San José de las Lajas - Mayabeque
+- Jefe de Grupo de Informática, Junio 2020 - Agosto 2023
+- Gestionar los procesos del departamento de Informática
+- Cumplir y hacer cumplir los documentos rectores de la especialidad.
+- Analizar y dar solucion informatizada a los problemas que afecten el rendimiento de las áreas de gestión de la sucursal.
+- Dar soporte y mantener los servicios de los usuarios funcionando correctamente en cada estación de trabajo.
+
+### Sucursal CIMEX Mayabeque, San José de las Lajas - Mayabeque
+- Administrador de Redes, Noviembre 2017 - Junio de 2020
+- Administrar los recursos de redes en la Sucursal CIMEX Mayabeque, así como los usuarios que utilizan dichos recursos.
+- Supervisar los registros de trazas de navegación nacional e internacional en los servidores de la Sucursal CIMEX Mayabeque.
+- Dar soporte a usuarios del sistema contable SENTAI utilizado en la Sucursal CIMEX Mayabeque.
+- Dar mantenimiento a la red física instalada en las oficinas de la Sucursal CIMEX Mayabeque así como sus dependencias, complejos, servicentros y tiendas panamericanas.
+- Mantener actualizadas las listas de usuarios en las diferentes plataformas web integradas a la red de dominio de la corporación CIMEX S.A
+
 
 ## 💻 Habilidades
 
-- 💻 Lista de habilidades, herramientas o tecnologías en las que se es competente
-- Incluye lenguajes de programación, software, marcos de trabajo, etc.
+💻 Habilidades Blandas
+- Inteligencia Emocional
+- Espíritu crítico
+- Trabajo en equipo
+- Capacidad Analítica
+- Comunicación efectiva y oportuna
+
+💻 Lenguajes de programación y Marcos de trabajo
+- JavaScript
+- TypeScript
+- Java
+- MySQL
+- PHP
+- Angular
+- TailwindCSS
+- NodeJS
+- CodeIgniter 3.0
+- HTML
+- CSS
 
 ## 🌎 Idiomas
 
-- Nivel de habilidad en idioma (e.g. Bilingue, Nativo, Avanzado, Intermedio, Básico)
+- Español (Nativo)
+- Inglés (Avanzado)
+- Ruso (Básico)
 
 ## 🔗 Referencias disponibles a petición
+
