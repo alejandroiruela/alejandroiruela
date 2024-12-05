@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hola! 👋
 
+Mi nombre es Alejandro Iruela Barranco. 
+Soy un Ingeniero en Informática que se apasiona por el desarrollo web, domino tecnologías como Javascript, PHP, Java, HTML y CSS. Tambien trabajo con marcos de trabajo como Angular, Node, TailwindCSS y Strapi, sin lugar a dudas mi favorito para el desarrollo Front-End es Angular y Node para la gestión de servicios en el servidor.
+Apenas soy Junior en el campo del desarrollo web, pero mi meta es mejorar cada dia hasta convertirme en un profesional con todas las aptitudes.
+
+Tambien tengo experiencia en la gestión de las redes informáticas, gestión de servidores, virtualización y contenedores, he trabajado con tecnologías como Docker (mi favorito a la hora de contenerizar) y un poco de Kubernetes. Espero que en mí encuentres lo que buscas, y de ser así, ¡Contáctame!
 <!--
 **alejandroiruela/alejandroiruela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
